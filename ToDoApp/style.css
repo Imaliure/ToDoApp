@@ -1,0 +1,50 @@
+body{
+    background-color: #153448;
+}
+#title{
+    font-weight: bold;
+    color: #fff;
+}
+
+#input-text{
+    width: 200px;
+    height: 25px;
+    background-color:#3C5B6F ;
+    color: #fff;
+    font-weight: bold;
+}
+.container{
+    width: 100%;
+    text-align: center;
+}
+
+
+#Add-button{
+    height: 30px;
+    width: 50px;
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+    font-weight: bold;
+}
+#Clear-button{
+    height: 30px;
+    width: 50px;
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.to-dos{
+    padding-top: 25px;
+     
+} 
+
+.paragraph_styling{
+    cursor: pointer;
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: bold;
+    font-size: larger;
+}
